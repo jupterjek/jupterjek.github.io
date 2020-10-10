@@ -1,0 +1,5 @@
+﻿{
+  "Description": "File verifikasi kepemilikan domain untuk Microsoft 365 - letakkan di akar situs web",
+  "Domain": "jupterjek.github.io",
+  "Id": "ea7a5156-c334-4fe7-8f40-55415301a91f"
+}
